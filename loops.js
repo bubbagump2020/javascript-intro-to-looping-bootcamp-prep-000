@@ -1,7 +1,3 @@
-function forLoop(array){
-
-}
-
-function whileLoop(number){
-
+var forLoop(array){
+  
 }
