@@ -9,5 +9,7 @@ function forLoop(array){
 }
 
 function whileLoop(number){
-  w
+  while(){
+    
+  }
 }
